@@ -1,0 +1,22 @@
+# JavaScript dependencies and build output
+**/node_modules/
+**/dist/
+
+# Local credentials and deployment metadata
+**/.env
+**/.env.*
+!**/.env.example
+**/.vercel/
+
+# Local databases and logs
+**/*.db
+**/*.sqlite
+**/*.sqlite3
+**/*.log
+
+# Local archives and OS/editor files
+frontend.zip
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

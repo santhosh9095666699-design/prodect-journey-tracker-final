@@ -1,0 +1,12 @@
+{
+  "name": "tracetrail-offchain-backend",
+  "version": "1.0.0",
+  "description": "TraceTrail Off-Chain Metadata & Proof Storage (Companion to Tezos Smart Contract)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["tezos", "tracetrail", "offchain", "metadata", "sqlite"],
+  "author": "Team Cyber Sword",
+  "license": "MIT"
+}
